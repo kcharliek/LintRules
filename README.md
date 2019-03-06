@@ -1,0 +1,2 @@
+# LintRules
+for clean code
